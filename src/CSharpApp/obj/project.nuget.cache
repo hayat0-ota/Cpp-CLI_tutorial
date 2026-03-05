@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "benx8ZVigOk=",
+  "success": true,
+  "projectFilePath": "C:\\Programming_ws\\Cpp_ws\\Cpp-CLI\\src\\CSharpApp\\CSharpApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hayato-ota\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.306\\microsoft.net.sdk.compilers.toolset.9.0.306.nupkg.sha512"
+  ],
+  "logs": []
+}

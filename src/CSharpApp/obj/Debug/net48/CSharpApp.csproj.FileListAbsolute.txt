@@ -1,0 +1,14 @@
+C:\Programming_ws\Cpp_ws\Cpp-CLI\build\bin\AnyCPU\Debug\Debug\net48\CSharpApp.exe.config
+C:\Programming_ws\Cpp_ws\Cpp-CLI\build\bin\AnyCPU\Debug\Debug\net48\CSharpApp.exe
+C:\Programming_ws\Cpp_ws\Cpp-CLI\build\bin\AnyCPU\Debug\Debug\net48\CSharpApp.pdb
+C:\Programming_ws\Cpp_ws\Cpp-CLI\src\CSharpApp\obj\Debug\net48\CSharpApp.csproj.AssemblyReference.cache
+C:\Programming_ws\Cpp_ws\Cpp-CLI\src\CSharpApp\obj\Debug\net48\CSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming_ws\Cpp_ws\Cpp-CLI\src\CSharpApp\obj\Debug\net48\CSharpApp.AssemblyInfoInputs.cache
+C:\Programming_ws\Cpp_ws\Cpp-CLI\src\CSharpApp\obj\Debug\net48\CSharpApp.AssemblyInfo.cs
+C:\Programming_ws\Cpp_ws\Cpp-CLI\src\CSharpApp\obj\Debug\net48\CSharpApp.csproj.CoreCompileInputs.cache
+C:\Programming_ws\Cpp_ws\Cpp-CLI\src\CSharpApp\obj\Debug\net48\CSharpApp.csproj.Up2Date
+C:\Programming_ws\Cpp_ws\Cpp-CLI\src\CSharpApp\obj\Debug\net48\CSharpApp.exe
+C:\Programming_ws\Cpp_ws\Cpp-CLI\src\CSharpApp\obj\Debug\net48\CSharpApp.pdb
+C:\Programming_ws\Cpp_ws\Cpp-CLI\build\bin\AnyCPU\Debug\net48\CSharpApp.exe.config
+C:\Programming_ws\Cpp_ws\Cpp-CLI\build\bin\AnyCPU\Debug\net48\CSharpApp.exe
+C:\Programming_ws\Cpp_ws\Cpp-CLI\build\bin\AnyCPU\Debug\net48\CSharpApp.pdb
